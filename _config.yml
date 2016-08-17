@@ -1,0 +1,3 @@
+name: Jenny Mack's Homepage
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
